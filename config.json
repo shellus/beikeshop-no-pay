@@ -1,0 +1,16 @@
+{
+    "code": "no_pay",
+    "name": {
+        "zh_cn": "不用支付"
+    },
+    "description": {
+        "zh_cn": "不用支付，用于测试环境"
+    },
+    "type": "payment",
+    "version": "v1.0.0",
+    "icon": "/image/logo.png",
+    "author": {
+        "name": "shellus",
+        "email": "353358601@qq.com"
+    }
+}
